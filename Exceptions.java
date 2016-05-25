@@ -2,7 +2,8 @@ package exceptions;
 
 /**
  *
- * @author aguzm
+ * @author Alejandro Guzman
+ * Software Engineering major - UTD
  */
 public class Exceptions 
 {
